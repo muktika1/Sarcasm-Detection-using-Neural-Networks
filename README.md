@@ -28,3 +28,6 @@ This project implements a sarcasm detection system using deep learning technique
 
 ```bash
 pip install pandas numpy matplotlib seaborn nltk tensorflow scikit-learn
+
+The dataset used is the Sarcasm Headlines Dataset from kaggle.
+
